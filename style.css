@@ -1,0 +1,16 @@
+h1{
+    color:white
+    
+}
+body{
+    background-image: url('css/background.jpg');
+    background-repeat:repeat-y;
+    background-size:cover;
+    height: 100vh;
+
+
+} 
+p{
+    color:white
+}
+
